@@ -9,13 +9,15 @@
  
 <h2> Other Practical Work </h2>
 
-<h3>Coursera</h3>
-- [Introduction to Active Directory](https://academy.hackthebox.com/achievement/1179859/74)
+Coursera
+  - [Microsoft Windows Defender and Firewall for Beginners](https://coursera.org/share/3a2d86f7861e9b03ca3e025169f9c0dc)
+  - [Wireshark for Beginners: Capture Packets](https://coursera.org/share/b7accfb6b1c36d3eeafc215044cd911e)
 
-<h3>HackTheBox</h3>
-- [Introduction to Active Directory](https://academy.hackthebox.com/achievement/1179859/74)
+HackTheBox
+  - [Introduction to Active Directory](https://academy.hackthebox.com/achievement/1179859/74)
 
-<h3>TryHackMe</h3>
+TryHackMe
+  - SOC Level 1 (in progress)
 
 <h2> 🤳 Connect with me:</h2>
 
