@@ -9,7 +9,7 @@
  
 <h2> Certifications </h2>
 
-- [Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- HackTheBox[Introduction to Active Directory](https://academy.hackthebox.com/achievement/1179859/74)
 
 
 <h2> 🤳 Connect with me:</h2>
