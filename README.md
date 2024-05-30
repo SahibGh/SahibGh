@@ -9,7 +9,7 @@
  
 <h2> Certifications </h2>
 
-- HackTheBox[Introduction to Active Directory](https://academy.hackthebox.com/achievement/1179859/74)
+- HackTheBox [Introduction to Active Directory](https://academy.hackthebox.com/achievement/1179859/74)
 
 
 <h2> 🤳 Connect with me:</h2>
