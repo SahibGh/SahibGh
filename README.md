@@ -7,9 +7,10 @@
   - [Splunk Log File Analysis and Visualisation](https://github.com/SahibGh/Splunk-Log-File-Analysis)
   - [Dissertation-DDoS Mitigation and Prevention Technique Review](https://github.com/SahibGh/Dissertation)
  
-<h2> Certifications </h2>
+<h2> Other Practical Work </h2>
 
-- HackTheBox [Introduction to Active Directory](https://academy.hackthebox.com/achievement/1179859/74)
+- HackTheBox
+- [Introduction to Active Directory](https://academy.hackthebox.com/achievement/1179859/74)
 
 
 <h2> 🤳 Connect with me:</h2>
