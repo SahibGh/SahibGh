@@ -9,9 +9,13 @@
  
 <h2> Other Practical Work </h2>
 
-- HackTheBox
+<h3>Coursera</h3>
 - [Introduction to Active Directory](https://academy.hackthebox.com/achievement/1179859/74)
 
+<h3>HackTheBox</h3>
+- [Introduction to Active Directory](https://academy.hackthebox.com/achievement/1179859/74)
+
+<h3>TryHackMe</h3>
 
 <h2> 🤳 Connect with me:</h2>
 
