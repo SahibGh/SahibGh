@@ -1,4 +1,12 @@
 <h1>Hi, I'm Sahib! </h1>
+<!-- I am a recent graduate with a degree in cyber security and digital forensics from Kingston University
+-
+Why I want to go into cyber security doc
+-
+So I decided to dedicate the rest of my academic journey to gaining a higher level of understanding in cyber security landscape
+cont I gained an understanding of cyber and professional
+-
+As result of -->
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
