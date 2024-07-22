@@ -1,4 +1,4 @@
-<h1>Sahib Ghataura Portfolio</h1>
+<h1>Hi, I'm Sahib!</h1>
 <!---
 <h2>About me:</h2>
 I am a recent graduate with a degree in cyber security and digital forensics from Kingston University. I've chosen this path because I have found myself consistently throughout my life taking on the various challenges that have an element of problem solving involved. For as long as I remember I’ve enjoyed activities that involve having to tackle a problem by come up with a solution. This originally stemmed from something as simple as Legos that eventually evolved into working on hardware to build my computer. From there I gained all the essential knowledge whilst working closely with computers, until I eventually learnt about how cybersecurity is an ever-growing field with great amount of opportunity, and it caught my eye. I decided it was worthy of my energy, time and resources and dedicated the rest of my academic journey to gaining a higher level of understanding in cyber security landscape by completing a bachelors degree in cyber security and digital forensics-->
