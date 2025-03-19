@@ -25,8 +25,11 @@ Coursera
 HackTheBox
   - [Introduction to Active Directory](https://academy.hackthebox.com/achievement/1179859/74)
 
-TryHackMe
-  - SOC Level 1 (in progress)
+<h2> Certifications </h2>
+
+  - [CompTIA Security+ SY0-701](https://www.credly.com/badges/0947c293-6c1f-455c-a750-8f6c5de1cc60/linked_in_profile)
+  - [Microsoft AZ-900](https://learn.microsoft.com/en-gb/users/sahibgh-3377/credentials/36a961408a7b0808?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+  - [IS0/IEC 27001 - Dynamics of Information Security Management System ISMS](https://alison.com/certification/check/02be3eb5d6)
 
 <h2> 🤳 Connect with me:</h2>
 
